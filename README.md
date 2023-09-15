@@ -1,5 +1,6 @@
 
-# osTicket Installation Guide
+# osTicket - Prerequisites and Installation
+
 
 This guide covers the prerequisites and installation of the open-source help desk ticketing system, osTicket.
 
